@@ -30,18 +30,19 @@ subtitle: 'UC Berkeley, Fall 2026'
 * binyu at berkeley.edu
 :::
 
-:::{card}
-:header: **Nicolas Sanchez**
+::::
 
-![Nicolas Sanchez](images/nico_img.jpeg)
+::::{grid} 1 2 2 2
+
+:::{card}
+:header: **GSI**
 
 +++
 
-* **Disussion**: Friday: 9:00 am - 11:00 am (334 Evans)
-* **Office Hours**: Tu 8-9a, W 12-1p, Th 2-3p
-<!-- * **Pronouns**: She/Her -->
-* nicolas_sanchez_ep at berkeley.edu
-
+* **Discussion**: TBA
+* **Office Hours**: TBA
+<!-- * **Pronouns**: -->
+* TBA
 :::
 
 ::::
