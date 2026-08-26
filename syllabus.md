@@ -12,8 +12,8 @@ title: "Syllabus"
 
 **Discussion:** Friday: 9:00 am - 11:00 am (Gateway B1026)
 
-**GSIs and office hours TBD:**
-Anqi Wang (aqwang@berkeley.edu); Nico Sanchez (nicolas_sanchez_ep@berkeley.edu). GSIs will be in charge of the discussion sessions, Ed Discussions, and the labs/homeworks.
+**GSIs and office hours:**
+Anqi Wang (aqwang@berkeley.edu) — Office Hours: Weekly Tu 9:30-11 am (starting Tue Sep. 1); Weekly W 11 am-12:30 pm (starting Wed Sep. 2). Nico Sanchez (nicolas_sanchez_ep@berkeley.edu) — Office Hours: TBA. GSIs will be in charge of the discussion sessions, Ed Discussions, and the labs/homeworks.
 
 ---
 
