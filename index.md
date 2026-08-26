@@ -47,7 +47,7 @@ subtitle: 'UC Berkeley, Fall 2026'
 * **Discussion**: Friday: 9:00 am - 11:00 am (Gateway B1026)
 <!-- * **Pronouns**: -->
 * **Anqi Wang**: aqwang at berkeley.edu
-    * Office Hours: Weekly Tu 9:30-11 am (starting Tue Sep. 1); Weekly W 11 am-12:30 pm (starting Wed Sep. 2)
+    * Office Hours: Weekly Tu 9:30-11 am (starting Tue Sep. 1); Weekly W 11 am-12:30 pm (starting Wed Sep. 2) — Gateway LL, Office Hours 1040C (6)
 * **Nico Sanchez**: nicolas_sanchez_ep at berkeley.edu
     * Office Hours: TBA
 :::
