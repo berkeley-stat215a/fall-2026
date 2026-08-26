@@ -3,6 +3,10 @@ title: 'Stat 215a: Applied Statistics and Machine Learning'
 subtitle: 'UC Berkeley, Fall 2026'
 ---
 
+**Instructor:** Bin Yu
+
+**GSI:** Anqi Wang, Nicolas Sanchez
+
 <!--div class="staffer">
   <img class="staffer-image" src="{{ staff_photo }}" height=50 width=50 alt="{{ staff_name }}">
   <div>

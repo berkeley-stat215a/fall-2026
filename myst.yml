@@ -29,8 +29,6 @@ project:
   # - file: data
   # - file: unit1
   # - file: unit2
-  authors:
-  - Bin Yu
 site:
   template: book-theme
   title: "Stat 215a"
