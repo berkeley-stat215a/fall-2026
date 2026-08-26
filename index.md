@@ -28,8 +28,8 @@ subtitle: 'UC Berkeley, Fall 2026'
 
 +++
 
-* **Lectures**: T/Th: 11 am - 12:30 pm (334 Evans)
-* **Office Hours**: TBA
+* **Lectures**: T/Th: 11 am - 12:30 pm (Gateway B1026)
+* **Office Hours (on-line)**: T: 10-11 am; Th: 12:30-1:30 pm
 <!-- * **Pronouns**: She/Her -->
 * binyu at berkeley.edu
 :::
@@ -43,10 +43,11 @@ subtitle: 'UC Berkeley, Fall 2026'
 
 +++
 
-* **Discussion**: TBA
+* **Discussion**: Friday: 9:00 am - 11:00 am (Gateway B1026)
 * **Office Hours**: TBA
 <!-- * **Pronouns**: -->
-* TBA
+* Anqi Wang: aqwang at berkeley.edu
+* Nico Sanchez: nicolas_sanchez_ep at berkeley.edu
 :::
 
 ::::
