@@ -1,0 +1,49 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "Stat 215a"
+  description: "Applied Statistics and Machine Learning"
+  keywords: []
+  #authors: ["Bin Yu", "Nicolas Sanchez"]
+  license:
+    # code: MIT
+    content: CC-BY-4.0
+  github: https://github.com/berkeley-stat215a/fall-2026
+  # bibliography: []
+  jupyter:
+    lite: true
+  #thebe:
+  #  lite: true
+    #local:
+    #  url: http://localhost:8888
+    #  token: test-secret
+    #server: true
+    #  url: http://localhost:8888
+    #  token: test-secret
+  plugins:
+  - schedule.mjs
+  toc:
+  - file: index
+  - file: syllabus
+  # - file: calendar
+  # - file: data
+  # - file: unit1
+  # - file: unit2
+  authors:
+  - Bin Yu
+  - Nicolas Sanchez
+site:
+  template: book-theme
+  title: "Stat 215a"
+  options:
+    logo: "stat_bear.png"
+  nav: []
+  actions:
+  - title: bCourses
+    url: https://bcourses.berkeley.edu/courses/1547135
+  - title: Ed
+    url: https://edstem.org/us/courses/83962
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/1097283
+  domains:
+  - stat215a.berkeley.edu
