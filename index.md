@@ -30,7 +30,7 @@ subtitle: 'UC Berkeley, Fall 2026'
 
 * **Lectures**: T/Th: 11 am - 12:30 pm (Gateway B1026)
 * **Office Hours (on-line)**: T: 10-11 am; Th: 12:30-1:30 pm
-* Office hour zoom link can be found on bcourses
+* Office hour zoom link can be found in the syllabus on bcourses
 <!-- * **Pronouns**: She/Her -->
 * binyu at berkeley.edu
 :::
