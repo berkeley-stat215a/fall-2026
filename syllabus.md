@@ -8,7 +8,6 @@ title: "Syllabus"
 **Lectures:** T/Th: 11 am - 12:30 pm (Gateway B1026)
 
 **Office hours (on-line):** T: 10-11 am; Th: 12:30-1:30 pm
-[https://berkeley.zoom.us/j/2496506181](https://berkeley.zoom.us/j/2496506181)
 
 **Discussion:** Friday: 9:00 am - 11:00 am (Gateway B1026)
 
